@@ -21,7 +21,7 @@ Execute os testes utilizando o pytest:
 
 
 📁 Estrutura do Projeto 📂
-Descreva a estrutura do projeto, explicando brevemente a finalidade de cada diretório e arquivo.
+
 
 tests/ 🧪: Contém os arquivos de teste.
 pages/ 📄: Contém as classes de Page Objects.
