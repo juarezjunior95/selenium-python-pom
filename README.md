@@ -24,9 +24,13 @@ Execute os testes utilizando o pytest:
 
 
 tests/ 🧪: Contém os arquivos de teste.
+
 pages/ 📄: Contém as classes de Page Objects.
+
 utils/ 🛠️: Contém utilitários e funções auxiliares.
+
 requirements.txt 📦: Lista de dependências do projeto.
+
 
 
 🤝 Contribuição 🌟
