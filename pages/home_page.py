@@ -13,3 +13,5 @@ class HomePage(BasePage):
 
     def verify_sucess_login(self):
         self.verify_if_there_element(self.title_page)
+
+
